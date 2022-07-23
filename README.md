@@ -1,5 +1,5 @@
 
-<img alt="Programming" height="500" width="900"  src="assets/programing.gif">
+<img alt="Programming" height="500" width="700"  src="assets/programing.gif">
 <br/><br/>
 <br/><br/>
 
